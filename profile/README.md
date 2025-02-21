@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+🙋‍♂️ **¿Quiénes somos?**
+**TecnoEduHub** es una comunidad de aprendizaje y desarrollo enfocada en proyectos de electrónica e informática. Colaboramos con alumnos de carreras técnicas para crear soluciones innovadoras en áreas como desarrollo de software, domótica, microcontroladores y páginas web.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 **¿Cómo contribuir?**
+Si quieres participar en nuestros proyectos, puedes:
+- Explorar nuestros repositorios y aportar mejoras.
+- Proponer nuevas ideas y soluciones en la pestaña de "Issues".
+- Unirte a nuestras reuniones y debates técnicos.
+- Compartir conocimientos y ayudar a otros miembros de la comunidad.
