@@ -2,7 +2,7 @@
 
 🙋‍♂️ **¿Quiénes somos?**
 
-**TecnoEduHub** es una comunidad de aprendizaje y desarrollo enfocada en proyectos de electrónica e informática. Colaboramos con alumnos de carreras técnicas para crear soluciones innovadoras en áreas como desarrollo de software, domótica, microcontroladores y páginas web.
+**TecnoEduHub** es una comunidad de aprendizaje y desarrollo enfocada en proyectos de electrónica e informática. Colaboramos con alumnos de carreras técnicas para crear soluciones innovadoras en diversas áreas.
 
 🌈 **¿Cómo contribuir?**
 
