@@ -2,7 +2,7 @@
 
 🙋‍♂️ **Who are we?**
 
-**TechnoEduHub** is a learning and development community focused on electronics and computer science projects. We collaborate with students of technical careers to create innovative solutions in various areas.
+**TecnoEduHub** is a learning and development community focused on electronics and computer science projects. We collaborate with students of technical careers to create innovative solutions in various areas.
 
 🌈 **How to contribute?**
 
